@@ -1,0 +1,22 @@
+{
+  "name": "testdeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwwergg/testdeta.git"
+  },
+  "author": "Diw thawatchai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diwwergg/testdeta/issues"
+  },
+  "homepage": "https://github.com/diwwergg/testdeta#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
